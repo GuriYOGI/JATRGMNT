@@ -1,9 +1,9 @@
-For the first time, Japanese researchers have conducted a real-life experiment that shows how some traffic jams appear for no apparent reason. They placed the 22 vehicles on a 
+i have a beautiful image in front of me For the first time, Japanese researchers have conducted a real-life experiment that shows how some traffic jams appear for no apparent reason. They placed the 22 vehicles on a 
 (Answer: single) track, and asked the drivers to cruise around at a 
 (Answer: constant) speed of 30 kilometers an hour. At first, traffic moves smoothly, but soon, the distance between cars started to 
 (Answer: vary) and vehicles clumped together at one point on the track, but the jams 
 (Answer: spread) backward around the track, like a shockwave at a rate of about 20 kilometers an hour. Real-life jams move backward at about the same speed.<div align="center">
-<!-- Title: -->
+<!-- Title: -->happy birthady parteik
   <a href="https://github.com/TheAlgorithms/">
     <img src="https://raw.githubusercontent.com/TheAlgorithms/website/1cd824df116b27029f17c2d1b42d81731f28a920/public/logo.svg" height="100">
   </a>
