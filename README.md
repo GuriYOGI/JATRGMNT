@@ -10,7 +10,7 @@ i have a beautiful image in front of me For the first time, Japanese researchers
   <h1><a href="https://github.com/TheAlgorithms/">The Algorithms</a> - Python</h1>
 <!-- Labels: -->
   <!-- First row: -->
-  <a href="https://gitpod.io/#https://github.com/TheAlgorithms/Python">
+  <a href="https://gitpod.io/#https://github.com/TheAlgorithms/Python">pattu maharaj ki jai
     <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=flat-square" height="20" alt="Gitpod Ready-to-Code">
   </a>
   <a href="https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md">
